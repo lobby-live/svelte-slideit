@@ -432,10 +432,10 @@ svelte-preprocess@3.7.4:
     detect-indent "^6.0.0"
     strip-indent "^3.0.0"
 
-svelte@3.22.2:
-  version "3.22.2"
-  resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.22.2.tgz#06585244191bf7a112af2a0025610f33d77c3715"
-  integrity sha512-DxumO0+vvHA6NSc2jtVty08I8lFI43q8P2zX6JxZL8J1kqK5NVjad6TRM/twhnWXC+QScnwkZ15O6X1aTsEKTA==
+svelte@3.32.1:
+  version "3.32.1"
+  resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.32.1.tgz#c4b6e35517d0ed77e652cc8964ef660afa2f70f3"
+  integrity sha512-j1KmD2ZOU0RGq1/STDXjwfh0/eJ/Deh2NXyuz1bpR9eOcz9yImn4CGxXdbSAN7cMTm9a7IyPUIbuBCzu/pXK0g==
 
 util-deprecate@^1.0.1:
   version "1.0.2"
